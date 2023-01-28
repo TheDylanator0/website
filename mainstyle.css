@@ -35,8 +35,8 @@ h1{text-align: center; font-family: Bungee;}
   border-right: 1px solid rgb(43, 3, 3);
       }
 
-      .body {
-        background-image: url('https://media.discordapp.net/attachments/963149225162580044/1067959620234125392/CSP_COP_CAR_WEBSITE.png?width=985&height=554');
+      .bodyBack {
+        background-image: url('/images/cop-car.png');
         background-size: cover;
       } 
 
