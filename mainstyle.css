@@ -3,7 +3,7 @@
   src: url(/fonts/Baloo-Regular.ttf);
 }
 
-h1{text-align: center; font-family: Bungee;}
+h1{text-align: center; font-family: Bungee, monospace;}
         p{text-align: center; font-family: sans-serif;}
         p2{text-align: center;}
         ul {

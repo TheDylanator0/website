@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.body {
+    background-color: rgb(22, 21, 21);
+}
+
+.contactInfo {
+  background: rgb(54, 52, 52);
+  border: 1px;
+  border-radius: 20px;
+  padding: 15px;
+  margin-left: 30px;
+  margin-right: auto;
+  box-shadow: black;
+  z-index: 1;
+}
+
+.name {
+    font-family: "Bungee", monospace;
+}
