@@ -2,12 +2,12 @@
   font-family: customFonts;
   src: url(/fonts/Baloo-Regular.ttf);
 }
+@import url('https://fonts.googleapis.com/css?family=Bungee');
 
-h1{text-align: center; font-family: Bungee, monospace;}
+h1{text-align: center; font-family: "Bungee", monospace;}
         p{text-align: center; font-family: sans-serif;}
-        p2{text-align: center;}
         ul {
-            font-family: Arial, Helvetica, sans-serif;
+          font-family: Arial, Helvetica, sans-serif;
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -26,17 +26,14 @@ h1{text-align: center; font-family: Bungee, monospace;}
         padding: 14px 16px;
         text-decoration: none;
       }
-      
-      /* Change the link color to #111 (black) on hover */
       li a:hover {
-        background-color: #111;
+        background-color: #797979;
       }
-      li {
-  border-right: 1px solid rgb(43, 3, 3);
-      }
+      
 
       .bodyBack {
-        background-image: url('/images/cop-car.png');
+        background-color: #5f5f5f;
+        /* background-image: url('/images/cop-car.png'); */
         background-size: cover;
       } 
 
@@ -47,4 +44,11 @@ h1{text-align: center; font-family: Bungee, monospace;}
       .marginNeeded {
         margin-left: 150px;
         margin-right: 150px;
+      }
+
+      .doing {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
       }
